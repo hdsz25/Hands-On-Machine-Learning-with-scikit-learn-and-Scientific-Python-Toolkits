@@ -10,7 +10,7 @@ chardet==3.0.4
 cycler==0.10.0
 cymem==2.0.3
 decorator==4.4.1
-defusedxml==0.6.0
+defusedxml
 en-core-web-md
 entrypoints==0.3
 idna==2.8
